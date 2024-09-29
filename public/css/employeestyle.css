@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(226, 218, 208);
+}
+
+form{
+margin: 100px 500px;
+background-color: rgb(223, 217, 217);
+padding: 20px;
+border-radius: 15px;
+box-shadow:  0 0 10px rgba(0,0,0,0.2);
+
+
+}
+
+.btn{
+    border: solid 1px  #ccc;
+    border-radius: 10px;
+}
+
+.btn:hover {
+    background-color: rgb(190, 186, 186);
+    border-radius: 10px;
+}
